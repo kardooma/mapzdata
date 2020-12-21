@@ -1,8 +1,8 @@
-# leaflet-map-simple
+# Dayz Map Data
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
-## Link to live map (replace with link to your site)
-https://handsondataviz.github.io/leaflet-map-simple/
+## Live Map (Work in progress)
+https://dmaegaming.com/
 
-## Create your own
-See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
+## Register your server for more infomation
+To get involved register at https://dmaegaming.com, follow and get your live map for your personal Dayz server
